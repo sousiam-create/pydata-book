@@ -1,5 +1,5 @@
 numpy
-pandas
+pandas==2.0.3
 matplotlib
 lxml
 seaborn
@@ -13,3 +13,6 @@ ipython
 requests
 sqlalchemy
 pytz
+
+[dev]
+jupyter
